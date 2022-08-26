@@ -1,0 +1,14 @@
+{
+    "buy laptop": {
+        "completed": true
+    },
+    "buy monitor": {
+        "completed": false
+    },
+    "Complete todo": {
+        "completed": false
+    },
+    "sleep early": {
+        "completed": false
+    }
+}
