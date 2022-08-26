@@ -1,3 +1,13 @@
-# TodoList
+# **THIS IS A TODOLIST APPLICATION**
 
-My TodoList Application, Learnt this from theCodeHolic
+## Learnt this from theCodeHolic
+---
+
+## You can clone or download the zip file to get started
+
+### *Happy todo-ing*
+
+---
+
+# **THANKS FOR COMING BY**
+
