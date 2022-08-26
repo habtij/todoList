@@ -1,3 +1,3 @@
-# todoList
+# TodoList
 
-My TodoList Application, Learn this from theCodeHolic
+My TodoList Application, Learnt this from theCodeHolic
