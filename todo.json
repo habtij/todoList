@@ -1,14 +1,11 @@
 {
-    "buy laptop": {
-        "completed": true
-    },
-    "buy monitor": {
+    "Continue yesterday video": {
         "completed": false
     },
-    "Complete todo": {
+    "Solve couple of hackerrank quiz": {
         "completed": false
     },
-    "sleep early": {
+    "Add contents to funmilists": {
         "completed": false
     }
 }

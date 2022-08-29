@@ -1,0 +1,32 @@
+.body {
+    position: relative;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    border: 1px solid rgb(84, 207, 207);
+    padding: 10px;
+    font-size: 20px;
+}
+
+.form-control {
+    font-size: 1.2em;
+}
+
+.btn {
+    font-size: 1.2em;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.border-topbottom {
+    border-top: 1px solid rgb(84, 207, 207);
+    border-bottom: 1px solid rgb(84, 207, 207);
+}
+
+table td {
+    padding: 5px;
+}
